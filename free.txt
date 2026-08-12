@@ -1,0 +1,4 @@
+@@||wetter.com^
+@@||api.wetter.com^
+@@||static.wetter.com^
+@@||img.wetter.com^
