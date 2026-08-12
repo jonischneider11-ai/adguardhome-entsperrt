@@ -1,20 +1,23 @@
-! wetter.com – funktionale Allowlist ohne Tracking
+! wetter.com App – funktionale Allowlist ohne Tracking
 
 @@||wetter.com^
 @@||api.wetter.com^
 @@||static.wetter.com^
 @@||img.wetter.com^
 
-! Google Fonts / JS, nur das absolut notwendige
+! App-spezifische APIs
+@@||app.wetter.com^
+@@||mobile-api.wetter.com^
+
+! Fonts (App lädt sonst nicht korrekt)
 @@||fonts.gstatic.com^
 @@||fonts.googleapis.com^
 
-! Wetter.com lädt ohne diese Tracking-Domains:
-! NICHT freigeben:
+! NICHT freigeben (Tracking / Werbung):
 ! wetter-pbs.relevant-digital.com
 ! cdn.relevant-digital.com
 ! imasdk.googleapis.com
-! adservice.google.com
-! doubleclick.net
 ! google-analytics.com
+! doubleclick.net
+! adservice.google.com
 ! relevant-digital.com
