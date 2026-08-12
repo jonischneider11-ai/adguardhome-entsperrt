@@ -8,10 +8,16 @@
 @@||app.wetter.com^
 @@||mobile-api.wetter.com^
 
+! Fonts (App lädt sonst nicht korrekt)
 @@||fonts.gstatic.com^
 @@||fonts.googleapis.com^
 
-! Tracking / Werbung NICHT freigeben:
+! Google Firebase (App stürzt sonst ab)
+@@||firebaseinstallations.googleapis.com^
+@@||firebase-settings.crashlytics.com^
+@@||firebaseremoteconfig.googleapis.com^
+
+! NICHT freigeben (Tracking / Werbung):
 ! wetter-pbs.relevant-digital.com
 ! cdn.relevant-digital.com
 ! imasdk.googleapis.com
