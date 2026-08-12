@@ -29,4 +29,3 @@
 ! googletagmanager.com
 ! adserver.*
 ! tracking.*
-@@||wetter-pbs.relevant-digital.com^
