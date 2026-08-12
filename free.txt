@@ -3,3 +3,4 @@
 @@||static.wetter.com^
 @@||img.wetter.com^
 @@||wetter-pbs.relevant-digital.com^
+@@||cdn.relevant-digital.com^
