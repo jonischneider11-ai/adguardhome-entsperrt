@@ -5,15 +5,13 @@
 @@||static.wetter.com^
 @@||img.wetter.com^
 
-! App-spezifische APIs
 @@||app.wetter.com^
 @@||mobile-api.wetter.com^
 
-! Fonts (App lädt sonst nicht korrekt)
 @@||fonts.gstatic.com^
 @@||fonts.googleapis.com^
 
-! NICHT freigeben (Tracking / Werbung):
+! Tracking / Werbung NICHT freigeben:
 ! wetter-pbs.relevant-digital.com
 ! cdn.relevant-digital.com
 ! imasdk.googleapis.com
